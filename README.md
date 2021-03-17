@@ -1,4 +1,4 @@
-# Veterinary Clinic DatabaseDesign
+# Veterinary Clinic Database Design
 In this project, our team read and analyzed the Fairbanks Veterinary Clinic Case Study. We played the role of a consultant who had been hired by the client (Fairbanks Veterinary Clinic) to design and create a database for them.
 
 Steps:
