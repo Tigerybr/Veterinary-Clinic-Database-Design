@@ -12,16 +12,16 @@ Steps:
 
 6. Then we populated (via SQL INSERT statements) each table in our database with several rows of test data of our own creation:
 
-•Added some Pets 
+  •Added some Pets 
 
-•Added some Owners 
+  •Added some Owners 
 
-•Added some Trainers – Including Shey and Marie
+  •Added some Trainers – Including Shey and Marie
 
-•Added some Training Events, coming up during the current month – Including Basic Skills, Walk-Train-Play, Off-Leash Operation
+  •Added some Training Events, coming up during the current month – Including Basic Skills, Walk-Train-Play, Off-Leash Operation
 
 7. We created and ran queries to show the following:
 
-•A list of Owners and Pets showing the owner name, pet name, breed, gender, date of birth
+  •A list of Owners and Pets showing the owner name, pet name, breed, gender, date of birth
 
-•A list of Upcoming Training Events showing the date, time, trainer, event type, owner, pet
+  •A list of Upcoming Training Events showing the date, time, trainer, event type, owner, pet
